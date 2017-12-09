@@ -19,6 +19,15 @@ a {
 .text-primary {
   color: #39E5DA !important; }
 
+.text-team{ 
+  color: #39E5DA !important;
+  font-weight: 700 !important;
+  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif !important; 
+  margin-top: 25px !important;
+  margin-bottom: -20px !important;
+  font-size: 25px !important;
+}
+
 h2{
   color: #176066;
 }
@@ -137,7 +146,7 @@ body {
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url("../img/pedbg.png");
+  background-image: url("../img/pedbg.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
